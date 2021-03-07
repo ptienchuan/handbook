@@ -1,1 +1,1 @@
-# vuepress-gh-pages
+# Demo using VuePress with Github pages
