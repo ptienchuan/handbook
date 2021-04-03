@@ -1,0 +1,19 @@
+{
+  "name": "handbook",
+  "version": "0.0.1",
+  "description": "handbook",
+  "main": "index.js",
+  "authors": {
+    "name": "Chuan Pham",
+    "email": "ptienchuan@gmail.com"
+  },
+  "repository": "git@github.com:ptienchuan/vuepress-gh-pages.git/handbook",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
