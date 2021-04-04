@@ -8,11 +8,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "Vuepress Docs Boilerplate",
+  title: "Chuan's Handbook",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description,
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -41,16 +41,16 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: "Guide",
-        link: "/guide/",
+        text: "Site map",
+        link: "/site-map/",
       },
       {
-        text: "Config",
-        link: "/config/",
+        text: "Git",
+        link: "/git/",
       },
       {
-        text: "VuePress",
-        link: "https://v1.vuepress.vuejs.org",
+        text: "Packages",
+        link: "/packages/",
       },
     ],
     sidebar: {
