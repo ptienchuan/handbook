@@ -41,8 +41,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: "Site map",
-        link: "/site-map/",
+        text: "Welcome",
+        link: "/welcome/",
       },
       {
         text: "Git",
@@ -59,6 +59,13 @@ module.exports = {
           title: "Guide",
           collapsable: false,
           children: ["", "using-vue"],
+        },
+      ],
+      "/packages/": [
+        {
+          title: "Javascript Packages",
+          collapsable: false,
+          children: ["", "utility"],
         },
       ],
     },

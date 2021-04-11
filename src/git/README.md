@@ -2,4 +2,4 @@
 sidebar: auto
 ---
 
-# Git handbook
+# Git
