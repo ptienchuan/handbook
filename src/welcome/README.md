@@ -1,4 +1,4 @@
 # Welcome
 
-- [Git](/git)
-- [Packages](/packages)
+- [Git](../git)
+- [Packages](../packages)
